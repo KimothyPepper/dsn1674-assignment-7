@@ -5,3 +5,33 @@ html {
 *, *::before; *::after {
   box-sizing:inherit;
 }
+
+
+html {
+  font-family: 'Dosis', sans-serif;
+  margins:0;
+}
+
+.rocks {
+  width:100%;
+}
+.1{
+  width:50%;
+  float:right;
+}
+
+.2{
+  width:50%;
+  float:left;
+}
+
+.3{
+  width:50%;
+  float:left;
+
+}
+
+.4{
+  width:50%;
+  float:right;
+}
