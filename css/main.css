@@ -108,6 +108,14 @@ body {
   right:10%;
 
 }
+.buttonant:hover{background-image: linear-gradient(to bottom, #388200, #214D00);}
+
+.buttonstag:hover{background-image: linear-gradient(to bottom, #388200, #214D00);}
+
+.buttondung:hover{background-image: linear-gradient(to bottom, #388200, #214D00);}
+
+.buttontort:hover{background-image: linear-gradient(to bottom, #388200, #214D00);}
+
 .beet1 {
   width:15%;
   float:left;
