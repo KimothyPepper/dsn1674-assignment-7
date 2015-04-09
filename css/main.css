@@ -54,7 +54,7 @@ img {
 }
 .tagline{
   position:absolute;
-  bottom:15px;
+  bottom:200px;
 }
 
 .bug-1{
@@ -62,6 +62,7 @@ img {
 
 
   float:left;
+  clear:left;
 
 
 
@@ -69,24 +70,25 @@ img {
 
 .bug-2{
   width:50%;
-  float:left;
+  float:right;
+  clear:right;
 
 
 }
 
 .bug-3{
   width:50%;
-
-
   float:left;
-clear:both;
+  clear:left;
+
 
 }
 
 .bug-4{
   width:50%;
 
-  float:left;
+  float:right;
+  clear:right;
 
 
 }
@@ -108,19 +110,14 @@ li {
 
 
 
-.button {
-  display:inline-block;
-  padding:0.5em 0.75em;
-  text-decoration:none;
-  color:#fff;
-  background-color:#a8ae98;
-  border-radius:10px;
-  background-image:linear-gradient(to bottom, #a8ae98 ,#5b5e52);
-
-}
 
 footer {
-  color:#512200;
+
+  background-color:#512200;
+  opacity: 0.5;
   display:inline-block;
   width:100%;
+
+
+
 }
