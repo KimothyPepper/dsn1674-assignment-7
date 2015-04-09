@@ -5,7 +5,11 @@ html {
 *, *::before; *::after {
   box-sizing:inherit;
 }
-
+nav a {
+  color:white;
+  text-decoration:none;
+  font-size:22px;
+}
 
 body {
   font-family: 'Dosis', sans-serif;
