@@ -30,9 +30,7 @@ body {
 
 }
 
-.aintdiv {
-  position:relative;
-}
+
 
 .stagdiv {
   position:relative
@@ -123,22 +121,6 @@ body {
 
 .buttontort:hover{background-image: linear-gradient(to bottom, #388200, #214D00);}
 
-.beet1 {
-  width:15%;
-  float:left;
-
-}
-
-.beet2{
-  width:15%;
-  float:right;
-
-}
-.beet3 {
-  width:15%;
-
-
-}
 
 h1 {
   text-align:center;
