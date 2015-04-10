@@ -22,7 +22,7 @@ body {
   margin:0;
 }
 .masthead{
-  background-image:url("../images/beetleicon.svg"), url("../images/beetleicon.svg"), url("../images/headerwaves.jpg");
+  background-image:url("../images/beetleicon.svg"), url("../images/beetleicon.svg"), url("../images/headerwaves.png");
   background-position:left 15px ,right 15px,left top;
   background-size:80px, 80px, auto;
   background-repeat: no-repeat, no-repeat, repeat;
