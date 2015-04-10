@@ -159,6 +159,7 @@ img {
 .rocks {
   width:100%;
   position:relative;
+  margin-bottom:-4px;
 }
 .tagline {
   position:absolute;
